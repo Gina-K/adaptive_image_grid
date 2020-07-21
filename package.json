@@ -1,0 +1,23 @@
+{
+  "name": "gpn-task2",
+  "version": "1.0.0",
+  "description": "Сверстать адаптивную сетку изображений под мобильные устройства (по предоставленному эскизу).",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gina-K/adaptive_image_grid.git"
+  },
+  "author": "Eugenia Kurmeneva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gina-K/adaptive_image_grid/issues"
+  },
+  "homepage": "https://github.com/Gina-K/adaptive_image_grid#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
